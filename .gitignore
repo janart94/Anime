@@ -37,7 +37,6 @@ libs/
 
 # Gradle Wrapper
 gradle-wrapper.jar
-gradle-wrapper.properties
 
 # Keystore files
 *.jks
